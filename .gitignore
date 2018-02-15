@@ -1,0 +1,14 @@
+
+*.exe
+*.pdb
+*.dll
+ShoppingCartWebApi/obj/Debug/net46/.IncrementalCache
+ShoppingCartWebApi/obj/Debug/net46/.SDKVersion
+ShoppingCartWebApi/obj/Debug/net46/dotnet-compile-csc.rsp
+ShoppingCartWebApi/obj/Debug/net46/dotnet-compile.assemblyinfo.cs
+ShoppingCartWebApi/obj/Debug/net46/dotnet-compile.rsp
+ShoppingCartWebApi/obj/Debug/net46/ShoppingCartWebApidotnet-compile.deps.json
+ShoppingCartWebApi/ShoppingCartWebApi.xproj.user
+ShoppingCartWebApi/bin/Debug/net46/win7-x64/ShoppingCartWebApi.exe.config
+.vs/ShoppingCartWebApi/v14/.suo
+*.dg
